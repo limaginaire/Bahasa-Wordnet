@@ -23,7 +23,6 @@ goodness is:
 
 Normal release has only Y and O.
 
-Note: glottal stop/quotes should be ʾ‘’ ?  Don't use '".
 
 e.g.
 00015388-n	B	X	fauna
@@ -32,6 +31,9 @@ e.g.
 
 Note: msa is the supertype of ind and zsm
 ========================================================================
+Note: glottal stop/quotes should be ʾ‘’ ?  Don't use '".
+Apostrophe should be (’) U+2019 as in: Côte d’Ivoire.
+We need to make the lookup more forgiving of this.
 
 There are some abbreviations in use:
 yg = yang
