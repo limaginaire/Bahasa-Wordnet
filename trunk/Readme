@@ -31,8 +31,8 @@ e.g.
 
 Note: msa is the supertype of ind and zsm
 ========================================================================
-Note: glottal stop/quotes should be ʾ‘’ ?  Don't use '".
 Apostrophe should be (’) U+2019 as in: Côte d’Ivoire.
+Technically glottal stop should be (ʼ) Letter apostrophe U+02BC.
 We need to make the lookup more forgiving of this.
 
 There are some abbreviations in use:
